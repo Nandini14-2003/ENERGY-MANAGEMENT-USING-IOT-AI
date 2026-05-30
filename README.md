@@ -1,1 +1,2 @@
 # ENERGY-MANAGEMENT-USING-IOT-AI
+Electricity powers modern life, but traditional distribution and billing systems suffer from 8–15% losses, with theft causing nearly 40% of them. Manual meter reading, delayed billing, and lack of real-time visibility lead to unexpected bills, poor theft detection, and inefficiencies. This project explores smarter, IoT-driven solutions for transparent, efficient electricity management.
